@@ -34,7 +34,7 @@ Team Member Contributions:
 Lian France Fulgosino	   Frontend design & UI interactions
 Giancarlo Tongson	       Backend API for likes/comments tracking
 Scott Denver Habla	       Backend API for likes/comments tracking
-Nicole Anne Hona	       Database setup & user authentication
+Nicole Anne Hona	       User authentication & project documentation
 Jethro Pestaño	           Deployment & project documentation
 
 Deployed URL:
